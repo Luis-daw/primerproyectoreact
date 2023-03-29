@@ -28,7 +28,7 @@ class PrimerComponente extends Component {
                         </li>
                      );
                   })
-                  // Creo que no funciona foreach xd
+                  // Creo que no funciona foreach
                   // datos.cosas.forEach(dato => {
                   //    return (
                   //       <li key={cont++}>
